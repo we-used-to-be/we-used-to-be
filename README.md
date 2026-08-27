@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Tianyu;Frontend+%C3%97+AI+Application;Building+with+AI+Agents..."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+we-used-to-be;Frontend+%C3%97+AI+Application;Building+with+AI+Agents..."
   alt="Typing SVG"
 />
 
