@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="180" viewBox="0 0 1440 180" fill="none">
+  <defs>
+    <linearGradient id="wave" x1="720" y1="35" x2="720" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7EF83" stop-opacity=".78" />
+      <stop offset="1" stop-color="#D7EF83" stop-opacity=".12" />
+    </linearGradient>
+  </defs>
+  <path d="M0 82C190 126 300 37 510 73C738 112 842 140 1058 79C1204 38 1327 47 1440 86V180H0V82Z" fill="url(#wave)" />
+  <path d="M0 112C188 151 368 89 548 105C770 125 867 163 1085 111C1241 74 1353 88 1440 112V180H0V112Z" fill="#D7EF83" fill-opacity=".34" />
+  <g fill="#FFF" opacity=".72">
+    <circle cx="198" cy="44" r="1.5"><animate attributeName="opacity" values=".2;.85;.2" dur="6s" begin="0s" repeatCount="indefinite" /></circle>
+    <circle cx="448" cy="30" r="1.2"><animate attributeName="opacity" values=".75;.2;.75" dur="7s" begin="1.5s" repeatCount="indefinite" /></circle>
+    <circle cx="816" cy="49" r="1.4"><animate attributeName="opacity" values=".2;.8;.2" dur="8s" begin="2s" repeatCount="indefinite" /></circle>
+    <circle cx="1196" cy="36" r="1.3"><animate attributeName="opacity" values=".8;.2;.8" dur="6.5s" begin=".8s" repeatCount="indefinite" /></circle>
+  </g>
+</svg>
